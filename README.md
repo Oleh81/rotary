@@ -1,3 +1,10 @@
+# Rotary Project
+
+This project is a web application built using Next.js and Tailwind CSS. It aims to provide an intuitive interface for users to explore Rotary's projects and contributions.
+
+## How to Run the Project
+
+1. Clone the repository:
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
